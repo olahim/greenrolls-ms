@@ -15,6 +15,7 @@
         <module>common</module>
         <module>customer</module>
         <module>fraud</module>
+        <module>service-discovery</module>
 
 
     </modules>
