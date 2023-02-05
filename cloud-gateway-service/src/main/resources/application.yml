@@ -1,7 +1,6 @@
 server:
     port: 8085
 
-
 eureka:
     client:
         service-url:
